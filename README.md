@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+An old project inspired by Loot to start a DAO for creating stories, animations and movies.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+The starting point would be a collection of NFTs that represented personalities and characteristics of various characters that could be used in stories.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+[abandoned]*
+
+*maybe it will become something else later
